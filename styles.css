@@ -1,0 +1,19 @@
+
+.heading {
+	font-size: 35pt;
+    color: rgb( 168, 163, 255);font-family:courier;text-align:center;
+}
+.paragraph {
+	font-size: 20pt;
+	color: rgb(153, 255, 153);font-family:courier;text-align:center;
+}
+body  {background-color: SlateBlue;}
+#title {
+	text-align:center;
+	font-size: 60pt; 
+}
+#map {
+	align:center;width:500px;height:350px;style:border:solid;
+
+	
+}
